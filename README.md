@@ -68,4 +68,6 @@ budget-tracker_v1.1 - Added inital service worker, web manifest and db.js for us
 
 budget-tracker_v1.2 - Added web manifest link to index.html; Added offline post request functionallity.
 
-budget-tracker_v1.2 - Changed image sizes to reflect actual image sizes in the web manifest.
+budget-tracker_v1.3 - Changed image sizes to reflect actual image sizes in the web manifest.
+
+budget-tracker_v1.4 - PWA install now working, deploying to heroku.
