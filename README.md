@@ -67,3 +67,5 @@ budget-tracker_v1.0 - Initial commit: Added basic README and .gitignore files.
 budget-tracker_v1.1 - Added inital service worker, web manifest and db.js for using indexedDb; Also modified server.js for use env parameters for port and mongoose connection.
 
 budget-tracker_v1.2 - Added web manifest link to index.html; Added offline post request functionallity.
+
+budget-tracker_v1.2 - Changed image sizes to reflect actual image sizes in the web manifest.
