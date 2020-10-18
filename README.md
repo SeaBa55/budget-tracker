@@ -63,3 +63,5 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Revisions
 budget-tracker_v1.0 - Initial commit: Added basic README and .gitignore files.
+
+budget-tracker_v1.1 - Added inital service worker, web manifest and db.js for using indexedDb; Also modified server.js for use env parameters for port and mongoose connection.
